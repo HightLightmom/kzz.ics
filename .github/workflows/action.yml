@@ -3,7 +3,7 @@ name: 'GitHub Actions KZZ Reminder Bot...'
 on:
   push:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '31 13 * * *'
 
 jobs:
   bot:
